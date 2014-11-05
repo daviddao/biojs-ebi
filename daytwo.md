@@ -40,7 +40,7 @@ order: 4
     <td class="tg-031e">11:00</td>
     <td class="tg-031e">Advanced JavaScript</td>
     <td class="tg-031e">Sebastian Wilzbach</td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e" biojs-date="2014-11-06 11:00"><a href="https://greenify.github.io/algo-vis/>Map/reduce vis</a></td>
   </tr>
    <tr>
     <td class="tg-031e">11:25</td>
@@ -91,3 +91,5 @@ order: 4
     <td class="tg-031e"></td>
   </tr>
 </table>
+
+<script src="{{ baseurl }}/js/hider.js"></script>
