@@ -40,13 +40,13 @@ order: 4
     <td class="tg-031e">11:00</td>
     <td class="tg-031e">Advanced JavaScript</td>
     <td class="tg-031e">Sebastian Wilzbach</td>
-    <td class="tg-031e" biojs-date="2014-11-06 11:00"><a href="http://greenify.github.io/js-adv">Slides</a><br><a href="https://greenify.github.io/algo-vis/>Map/reduce vis</a></td>
+    <td class="tg-031e" biojs-date="2014-11-06 11:00"><a href="http://greenify.github.io/js-adv">Slides</a><br><a href="https://greenify.github.io/algo-vis/">Map/reduce vis</a></td>
   </tr>
    <tr>
     <td class="tg-031e">11:25</td>
     <td class="tg-031e">Advanced D3</td>
     <td class="tg-031e">David Dao</td>
-    <td class="tg-031e"></td>
+    <td class="tg-031e"><a href="https://github.com/daviddao/ebi-d3-layouts">Tutorial & Materials</a></td>
   </tr>
   <tr>
     <td class="tg-031e">11:50</td>
